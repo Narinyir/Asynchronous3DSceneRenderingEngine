@@ -1,0 +1,82 @@
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+
+# csSandWallDJ1
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_1.tga
+
+# -0SandRock2
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_2.tga
+
+# csSandWallGH1a
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_3.tga
+
+# csSandWallGH1b
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_4.tga
+
+# SandCCrete2
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_5.tga
+
+# csSandWallBTA
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_6.tga
+
+# djCredit1
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_7.tga
+
+# SandWllDoorDJ1
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_8.tga
+
+# djCredit2
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_9.tga
+
+# SandWllDoorBTb
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_10.tga
+
+# csSandWallBTB
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_11.tga
+
+# SandWllDoorDJ2
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_12.tga
+
+# SandWllDoorBTA
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd test_material_13.tga
+

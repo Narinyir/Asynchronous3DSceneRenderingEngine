@@ -1,0 +1,372 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__1002 (3) to come 
+#
+newmtl cd7a39f4.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/tovpalat.tga
+map_d Texture/tovpalat.tga
+#
+newmtl 882604d7.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/tovar01.tga
+map_d Texture/tovar01.tga
+#
+newmtl 303cef73.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/sunduki.tga
+map_d Texture/sunduki.tga
+#
+# Multi/Sub Material__1002 done 
+#
+# Multi/Sub Material__68 (8) to come 
+#
+newmtl d40839b9.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/d40839b9.tga
+map_d Texture/d40839b9.tga
+#
+newmtl 3668c80e.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/hibara_001.tga
+map_d Texture/hibara_001.tga
+#
+#MAISON DETRUITE:MISSING TEXTURE!!!
+newmtl 3e0c0333.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/00000.tga
+map_d Texture/00000.tga
+#
+#POUTRE MAISON DETRUITE:MISSING TEXTURE!
+newmtl ad77fd31.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/ad77fd31.dds
+map_d Texture/ad77fd31.dds
+#
+newmtl 5b860562.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/hibara_003.tga
+map_d Texture/hibara_003.tga
+#
+newmtl 08ee0f4c.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/viveski.tga
+map_d Texture/viveski.tga
+#
+newmtl ed79fe48.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/ed79fe48.tga
+map_d Texture/ed79fe48.tga
+#
+# Multi/Sub Material__1312 done 
+#
+# Multi/Sub Material__189 (8) to come 
+#
+newmtl a33406ac.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/dom_002.tga
+map_d Texture/dom_002.tga
+#
+newmtl 2927be26.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/dom_003.tga
+map_d Texture/dom_003.tga
+#
+newmtl 8262fb83.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/dom004.tga
+map_d Texture/dom004.tga
+#
+newmtl e1e075eb.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/e1e075eb.tga
+map_d Texture/e1e075eb.tga
+#
+newmtl 30e5522d.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/30e5522d.tga
+map_d Texture/30e5522d.tga
+#
+newmtl ed875bfc.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/domedv.tga
+map_d Texture/domedv.tga
+#
+newmtl ae9a4955.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/dom005.tga
+map_d Texture/dom005.tga
+#
+newmtl ee9829cf.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/dom009.tga
+map_d Texture/dom009.tga
+#
+newmtl 2a3f1c0e.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/dom008.tga
+map_d Texture/dom008.tga
+#
+newmtl 171df0e6.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/osobnyk.tga
+map_d Texture/osobnyk.tga
+#
+newmtl 036c2427.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/doma_hati.tga
+map_d Texture/doma_hati.tga
+#
+newmtl b64ba825.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/statui01.tga
+map_d Texture/statui01.tga
+#
+# Multi/Sub Material__1260 done 
+#
+# Multi/Sub Material__1240 (5) to come 
+#
+newmtl 5aa6eeb0.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/plane.tga
+map_d Texture/plane.tga
+#
+newmtl c42709e9.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/scaly.tga
+map_d Texture/scaly.tga
+#
+newmtl fa2f5b9f.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/stoun.tga
+map_d Texture/stoun.tga
+#
+# Multi/Sub Material__1240 done 
+#
+# Multi/Sub Material__629 (8) to come 
+#
+newmtl 63d9d8cd.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/63d9d8cd.tga
+map_d Texture/63d9d8cd.tga
+#
+# Multi/Sub Material__1022 done 
+#
+# Multi/Sub Material__1042 (3) to come 
+#
+# Multi/Sub Material__1042 done 
+#
+# Multi/Sub Material__1286 (2) to come 
+#
+newmtl b7951627.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/tavern.tga
+map_d Texture/tavern.tga
+#
+# Multi/Sub Material__1286 done 
+#
+# Multi/Sub Material__1338 (2) to come 
+#
+newmtl eca440c1.dds
+Ka 0.3 0.3 0.3
+Kd 0.7 0.7 0.7
+Ks 1.0 1.0 1.0
+d 1.0
+Ns 1.0
+illum 2
+map_Kd Texture/shipyard.tga
+map_d Texture/shipyard.tga
+#
+# Multi/Sub Material__1338 done 
+#
+# Multi/Sub Material__343 (8) to come 
+#
+newmtl 01_-_Default
+Ka 0.6 0.6 0.6
+Kd 0.6 0.6 0.6
+Ks 0.9 0.9 0.9
+d 1.0
+Ns 5.1
+illum 2
+map_Kd Texture/pena1.tga
+#
+newmtl Sky01
+Ka 0.6 0.6 0.6
+Kd 1.0 1.0 1.0
+Ks 0.9 0.9 0.9
+d 1.0
+Ns 5.1
+illum 0
+map_Kd Texture/nebo001.tga
+#
+newmtl Sky02
+Ka 0.6 0.6 0.6
+Kd 1.0 1.0 1.0
+Ks 0.9 0.9 0.9
+d 1.0
+Ns 5.1
+illum 0
+map_Kd Texture/nebo003.tga
+#
+newmtl Sky03
+Ka 0.6 0.6 0.6
+Kd 1.0 1.0 1.0
+Ks 0.9 0.9 0.9
+d 1.0
+Ns 5.1
+illum 0
+map_Kd Texture/nebo002.tga
+#
+newmtl Sky04
+Ka 0.6 0.6 0.6
+Kd 1.0 1.0 1.0
+Ks 0.9 0.9 0.9
+d 1.0
+Ns 5.1
+illum 0
+map_Kd Texture/nebo004.tga
+#
+newmtl Sky05
+Ka 0.6 0.6 0.6
+Kd 1.0 1.0 1.0
+Ks 0.9 0.9 0.9
+d 1.0
+Ns 5.1
+illum 0
+map_Kd Texture/nebo005.tga
+# EOF

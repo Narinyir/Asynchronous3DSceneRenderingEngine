@@ -1,0 +1,2244 @@
+# Air
+newmtl Air
+Kd 0.9961 0.9961 1.0000
+d 0.0039
+illum 1
+
+# Stone
+newmtl Stone
+Kd 0.4902 0.4902 0.4902
+d 1.0000
+illum 1
+
+# Grass
+newmtl Grass
+Kd 0.3216 0.4510 0.1725
+d 1.0000
+illum 1
+
+# Dirt
+newmtl Dirt
+Kd 0.5255 0.3765 0.2627
+d 1.0000
+illum 1
+
+# Cobblestone
+newmtl Cobblestone
+Kd 0.4588 0.4588 0.4588
+d 1.0000
+illum 1
+
+# Unknown.5
+newmtl Unknown.5
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.6
+newmtl Unknown.6
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Bedrock
+newmtl Bedrock
+Kd 0.3294 0.3294 0.3294
+d 1.0000
+illum 1
+
+# Water
+newmtl Water
+Kd 0.0000 0.6039 1.0000
+d 0.3137
+illum 1
+
+# WaterStationary
+newmtl WaterStationary
+Kd 0.0000 0.6039 1.0000
+d 0.3137
+illum 1
+
+# Lava
+newmtl Lava
+Kd 0.9608 0.2588 0.0000
+d 1.0000
+illum 1
+
+# LavaStationary
+newmtl LavaStationary
+Kd 0.9608 0.2588 0.0000
+d 1.0000
+illum 1
+
+# Sand
+newmtl Sand
+Kd 0.8549 0.8235 0.6196
+d 1.0000
+illum 1
+
+# Gravel
+newmtl Gravel
+Kd 0.5333 0.4980 0.4941
+d 1.0000
+illum 1
+
+# GoldOre
+newmtl GoldOre
+Kd 0.5647 0.5490 0.4902
+d 1.0000
+illum 1
+
+# IronOre
+newmtl IronOre
+Kd 0.5333 0.5137 0.4980
+d 1.0000
+illum 1
+
+# CoalOre
+newmtl CoalOre
+Kd 0.4510 0.4510 0.4510
+d 1.0000
+illum 1
+
+# Unknown.17
+newmtl Unknown.17
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.18
+newmtl Unknown.18
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Sponge
+newmtl Sponge
+Kd 0.7176 0.7176 0.2235
+d 1.0000
+illum 1
+
+# Glass
+newmtl Glass
+Kd 1.0000 1.0000 1.0000
+d 0.2000
+illum 1
+
+# LapisLazuliOre
+newmtl LapisLazuliOre
+Kd 0.4000 0.4392 0.5294
+d 1.0000
+illum 1
+
+# LapisLazuliBlock
+newmtl LapisLazuliBlock
+Kd 0.1137 0.2784 0.6510
+d 1.0000
+illum 1
+
+# Dispenser
+newmtl Dispenser
+Kd 0.4235 0.4235 0.4235
+d 1.0000
+illum 1
+
+# Unknown.24
+newmtl Unknown.24
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# NoteBlock
+newmtl NoteBlock
+Kd 0.3961 0.2667 0.2000
+d 1.0000
+illum 1
+
+# Unknown.26
+newmtl Unknown.26
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.27
+newmtl Unknown.27
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# DetectorRail
+newmtl DetectorRail
+Kd 0.4627 0.3843 0.3176
+d 1.0000
+illum 1
+
+# StickyPiston
+newmtl StickyPiston
+Kd 0.4196 0.4000 0.3725
+d 1.0000
+illum 1
+
+# Web
+newmtl Web
+Kd 0.8549 0.8549 0.8549
+d 0.6000
+illum 1
+
+# Unknown.31
+newmtl Unknown.31
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Dead Shrub
+newmtl Dead Shrub
+Kd 0.4863 0.3098 0.0980
+d 1.0000
+illum 1
+
+# Piston
+newmtl Piston
+Kd 0.4196 0.4000 0.3725
+d 1.0000
+illum 1
+
+# Piston.Ext
+newmtl Piston.Ext
+Kd 0.6039 0.5098 0.3529
+d 1.0000
+illum 1
+
+# Unknown.35
+newmtl Unknown.35
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.36
+newmtl Unknown.36
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# FlowerYellow
+newmtl FlowerYellow
+Kd 0.7569 0.7804 0.0078
+d 1.0000
+illum 1
+
+# FlowerRed
+newmtl FlowerRed
+Kd 0.7961 0.0235 0.0392
+d 1.0000
+illum 1
+
+# MushroomBrown
+newmtl MushroomBrown
+Kd 0.5882 0.4431 0.3451
+d 1.0000
+illum 1
+
+# MushroomRed
+newmtl MushroomRed
+Kd 0.7725 0.2353 0.2471
+d 1.0000
+illum 1
+
+# GoldBlock
+newmtl GoldBlock
+Kd 0.9804 0.9255 0.3059
+d 1.0000
+illum 1
+
+# IronBlock
+newmtl IronBlock
+Kd 0.9020 0.9020 0.9020
+d 1.0000
+illum 1
+
+# Unknown.43
+newmtl Unknown.43
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.44
+newmtl Unknown.44
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Brick
+newmtl Brick
+Kd 0.5725 0.3922 0.3412
+d 1.0000
+illum 1
+
+# TNT
+newmtl TNT
+Kd 0.6510 0.3333 0.2471
+d 1.0000
+illum 1
+
+# Bookshelf
+newmtl Bookshelf
+Kd 0.4235 0.3451 0.2275
+d 1.0000
+illum 1
+
+# StoneMoss
+newmtl StoneMoss
+Kd 0.3569 0.4235 0.3569
+d 1.0000
+illum 1
+
+# Obsidian
+newmtl Obsidian
+Kd 0.0784 0.0706 0.1176
+d 1.0000
+illum 1
+
+# Torch
+newmtl Torch
+Kd 1.0000 0.8549 0.4000
+d 0.6000
+illum 1
+
+# Fire
+newmtl Fire
+Kd 1.0000 0.4667 0.0000
+d 0.6000
+illum 1
+
+# MonsterSpawner
+newmtl MonsterSpawner
+Kd 0.1137 0.3098 0.4471
+d 1.0000
+illum 1
+
+# StairsWooden
+newmtl StairsWooden
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# Chest
+newmtl Chest
+Kd 0.5137 0.3686 0.1451
+d 1.0000
+illum 1
+
+# RedstoneWire
+newmtl RedstoneWire
+Kd 0.7961 0.0000 0.0000
+d 1.0000
+illum 1
+
+# DiamondOre
+newmtl DiamondOre
+Kd 0.5098 0.5490 0.5608
+d 1.0000
+illum 1
+
+# DiamondBlock
+newmtl DiamondBlock
+Kd 0.3922 0.8627 0.8392
+d 1.0000
+illum 1
+
+# Workbench
+newmtl Workbench
+Kd 0.4196 0.2784 0.1686
+d 1.0000
+illum 1
+
+# Crops
+newmtl Crops
+Kd 0.5137 0.7569 0.2667
+d 1.0000
+illum 1
+
+# Soil
+newmtl Soil
+Kd 0.2941 0.1608 0.0549
+d 1.0000
+illum 1
+
+# Furnace
+newmtl Furnace
+Kd 0.3059 0.3059 0.3059
+d 1.0000
+illum 1
+
+# FurnaceBurning
+newmtl FurnaceBurning
+Kd 0.4902 0.4000 0.3333
+d 1.0000
+illum 1
+
+# SignPost
+newmtl SignPost
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# DoorWooden
+newmtl DoorWooden
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# Ladder
+newmtl Ladder
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# MinecartTracks
+newmtl MinecartTracks
+Kd 0.4588 0.4000 0.2980
+d 1.0000
+illum 1
+
+# StairsCobblestone
+newmtl StairsCobblestone
+Kd 0.4588 0.4588 0.4588
+d 1.0000
+illum 1
+
+# SignWall
+newmtl SignWall
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# Lever
+newmtl Lever
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# PressurePlateStone
+newmtl PressurePlateStone
+Kd 0.4902 0.4902 0.4902
+d 1.0000
+illum 1
+
+# DoorIron
+newmtl DoorIron
+Kd 0.6980 0.6980 0.6980
+d 1.0000
+illum 1
+
+# PressurePlateWooden
+newmtl PressurePlateWooden
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# RedstoneOre
+newmtl RedstoneOre
+Kd 0.5216 0.4196 0.4196
+d 1.0000
+illum 1
+
+# RedstoneOreGlowing
+newmtl RedstoneOreGlowing
+Kd 0.7412 0.4196 0.4196
+d 1.0000
+illum 1
+
+# RedstoneTorch.Off
+newmtl RedstoneTorch.Off
+Kd 0.2667 0.0000 0.0000
+d 0.6000
+illum 1
+
+# RedstoneTorch.On
+newmtl RedstoneTorch.On
+Kd 0.9961 0.0000 0.0000
+d 0.6000
+illum 1
+
+# ButtonStone
+newmtl ButtonStone
+Kd 0.4902 0.4902 0.4902
+d 1.0000
+illum 1
+
+# Snow
+newmtl Snow
+Kd 0.9412 0.9843 0.9843
+d 1.0000
+illum 1
+
+# Ice
+newmtl Ice
+Kd 0.4902 0.6824 1.0000
+d 0.4667
+illum 1
+
+# SnowBlock
+newmtl SnowBlock
+Kd 0.9412 0.9843 0.9843
+d 1.0000
+illum 1
+
+# Cactus
+newmtl Cactus
+Kd 0.0510 0.3922 0.0941
+d 1.0000
+illum 1
+
+# Clay
+newmtl Clay
+Kd 0.6235 0.6471 0.6941
+d 1.0000
+illum 1
+
+# SugarCane
+newmtl SugarCane
+Kd 0.5137 0.7686 0.2784
+d 1.0000
+illum 1
+
+# Jukebox
+newmtl Jukebox
+Kd 0.4196 0.2863 0.2157
+d 1.0000
+illum 1
+
+# Fence
+newmtl Fence
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# Pumpkin
+newmtl Pumpkin
+Kd 0.7725 0.4745 0.0941
+d 1.0000
+illum 1
+
+# Netherrack
+newmtl Netherrack
+Kd 0.4314 0.2078 0.2000
+d 1.0000
+illum 1
+
+# SoulSand
+newmtl SoulSand
+Kd 0.3333 0.2549 0.2039
+d 1.0000
+illum 1
+
+# Glowstone
+newmtl Glowstone
+Kd 0.5373 0.4431 0.2549
+d 1.0000
+illum 1
+
+# Portal
+newmtl Portal
+Kd 0.2196 0.1137 0.3333
+d 0.7333
+illum 1
+
+# JackOLantern
+newmtl JackOLantern
+Kd 0.7255 0.5255 0.1137
+d 1.0000
+illum 1
+
+# CakeBlock
+newmtl CakeBlock
+Kd 0.8980 0.8078 0.8118
+d 1.0000
+illum 1
+
+# RedstoneRepeater.Off
+newmtl RedstoneRepeater.Off
+Kd 0.5961 0.5804 0.5804
+d 1.0000
+illum 1
+
+# RedstoneRepeater.On
+newmtl RedstoneRepeater.On
+Kd 0.6314 0.5804 0.5804
+d 1.0000
+illum 1
+
+# LockedChest
+newmtl LockedChest
+Kd 0.5137 0.3686 0.1451
+d 1.0000
+illum 1
+
+# Trapdoor
+newmtl Trapdoor
+Kd 0.5059 0.3765 0.1843
+d 1.0000
+illum 1
+
+# HiddenSilverfish
+newmtl HiddenSilverfish
+Kd 0.4902 0.4902 0.4902
+d 1.0000
+illum 1
+
+# Unknown.98
+newmtl Unknown.98
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.99
+newmtl Unknown.99
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.100
+newmtl Unknown.100
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# IronBars
+newmtl IronBars
+Kd 0.4118 0.4078 0.4000
+d 1.0000
+illum 1
+
+# GlassPane
+newmtl GlassPane
+Kd 1.0000 1.0000 1.0000
+d 0.2000
+illum 1
+
+# Melon
+newmtl Melon
+Kd 0.5529 0.5725 0.1412
+d 1.0000
+illum 1
+
+# Unknown.104
+newmtl Unknown.104
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.105
+newmtl Unknown.105
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Vines
+newmtl Vines
+Kd 0.1216 0.3098 0.0392
+d 1.0000
+illum 1
+
+# Fence.Gate
+newmtl Fence.Gate
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# StairsBrick
+newmtl StairsBrick
+Kd 0.6118 0.4314 0.3843
+d 1.0000
+illum 1
+
+# StairsStoneBrick
+newmtl StairsStoneBrick
+Kd 0.4667 0.4667 0.4667
+d 1.0000
+illum 1
+
+# Mycelium
+newmtl Mycelium
+Kd 0.3059 0.2588 0.2510
+d 1.0000
+illum 1
+
+# LilyPad
+newmtl LilyPad
+Kd 0.0588 0.3725 0.0902
+d 1.0000
+illum 1
+
+# NetherBrick
+newmtl NetherBrick
+Kd 0.1647 0.0824 0.0980
+d 1.0000
+illum 1
+
+# NetherBrickFence
+newmtl NetherBrickFence
+Kd 0.1647 0.0824 0.0980
+d 1.0000
+illum 1
+
+# NetherBrickStairs
+newmtl NetherBrickStairs
+Kd 0.1647 0.0824 0.0980
+d 1.0000
+illum 1
+
+# NetherWart
+newmtl NetherWart
+Kd 0.4039 0.0667 0.0549
+d 1.0000
+illum 1
+
+# Enchantment Table
+newmtl Enchantment Table
+Kd 0.1647 0.1725 0.1804
+d 1.0000
+illum 1
+
+# BrewingStand
+newmtl BrewingStand
+Kd 0.4784 0.4039 0.3333
+d 1.0000
+illum 1
+
+# Cauldron
+newmtl Cauldron
+Kd 0.2392 0.2392 0.2392
+d 1.0000
+illum 1
+
+# EndPortal
+newmtl EndPortal
+Kd 0.0471 0.0431 0.0510
+d 1.0000
+illum 1
+
+# EndPortalFrame
+newmtl EndPortalFrame
+Kd 0.5804 0.6275 0.4824
+d 1.0000
+illum 1
+
+# EndStone
+newmtl EndStone
+Kd 0.8667 0.8784 0.6471
+d 1.0000
+illum 1
+
+# DragonEgg
+newmtl DragonEgg
+Kd 0.0510 0.0392 0.0627
+d 1.0000
+illum 1
+
+# RedstoneLampOff
+newmtl RedstoneLampOff
+Kd 0.2745 0.1725 0.1059
+d 1.0000
+illum 1
+
+# RedstoneLampOn
+newmtl RedstoneLampOn
+Kd 0.4667 0.3490 0.2157
+d 1.0000
+illum 1
+
+# Unknown.125
+newmtl Unknown.125
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.126
+newmtl Unknown.126
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.127
+newmtl Unknown.127
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.128
+newmtl Unknown.128
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.129
+newmtl Unknown.129
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.130
+newmtl Unknown.130
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.131
+newmtl Unknown.131
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.132
+newmtl Unknown.132
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.133
+newmtl Unknown.133
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.134
+newmtl Unknown.134
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.135
+newmtl Unknown.135
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.136
+newmtl Unknown.136
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.137
+newmtl Unknown.137
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.138
+newmtl Unknown.138
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.139
+newmtl Unknown.139
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.140
+newmtl Unknown.140
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.141
+newmtl Unknown.141
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.142
+newmtl Unknown.142
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.143
+newmtl Unknown.143
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.144
+newmtl Unknown.144
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.145
+newmtl Unknown.145
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.146
+newmtl Unknown.146
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.147
+newmtl Unknown.147
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.148
+newmtl Unknown.148
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.149
+newmtl Unknown.149
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.150
+newmtl Unknown.150
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.151
+newmtl Unknown.151
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.152
+newmtl Unknown.152
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.153
+newmtl Unknown.153
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.154
+newmtl Unknown.154
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.155
+newmtl Unknown.155
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.156
+newmtl Unknown.156
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.157
+newmtl Unknown.157
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.158
+newmtl Unknown.158
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.159
+newmtl Unknown.159
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.160
+newmtl Unknown.160
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.161
+newmtl Unknown.161
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.162
+newmtl Unknown.162
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.163
+newmtl Unknown.163
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.164
+newmtl Unknown.164
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.165
+newmtl Unknown.165
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.166
+newmtl Unknown.166
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.167
+newmtl Unknown.167
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.168
+newmtl Unknown.168
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.169
+newmtl Unknown.169
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.170
+newmtl Unknown.170
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.171
+newmtl Unknown.171
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.172
+newmtl Unknown.172
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.173
+newmtl Unknown.173
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.174
+newmtl Unknown.174
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.175
+newmtl Unknown.175
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.176
+newmtl Unknown.176
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.177
+newmtl Unknown.177
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.178
+newmtl Unknown.178
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.179
+newmtl Unknown.179
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.180
+newmtl Unknown.180
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.181
+newmtl Unknown.181
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.182
+newmtl Unknown.182
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.183
+newmtl Unknown.183
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.184
+newmtl Unknown.184
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.185
+newmtl Unknown.185
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.186
+newmtl Unknown.186
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.187
+newmtl Unknown.187
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.188
+newmtl Unknown.188
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.189
+newmtl Unknown.189
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.190
+newmtl Unknown.190
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.191
+newmtl Unknown.191
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.192
+newmtl Unknown.192
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.193
+newmtl Unknown.193
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.194
+newmtl Unknown.194
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.195
+newmtl Unknown.195
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.196
+newmtl Unknown.196
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.197
+newmtl Unknown.197
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.198
+newmtl Unknown.198
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.199
+newmtl Unknown.199
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.200
+newmtl Unknown.200
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.201
+newmtl Unknown.201
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.202
+newmtl Unknown.202
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.203
+newmtl Unknown.203
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.204
+newmtl Unknown.204
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.205
+newmtl Unknown.205
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.206
+newmtl Unknown.206
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.207
+newmtl Unknown.207
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.208
+newmtl Unknown.208
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.209
+newmtl Unknown.209
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.210
+newmtl Unknown.210
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.211
+newmtl Unknown.211
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.212
+newmtl Unknown.212
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.213
+newmtl Unknown.213
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.214
+newmtl Unknown.214
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.215
+newmtl Unknown.215
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.216
+newmtl Unknown.216
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.217
+newmtl Unknown.217
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.218
+newmtl Unknown.218
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.219
+newmtl Unknown.219
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.220
+newmtl Unknown.220
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.221
+newmtl Unknown.221
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.222
+newmtl Unknown.222
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.223
+newmtl Unknown.223
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.224
+newmtl Unknown.224
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.225
+newmtl Unknown.225
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.226
+newmtl Unknown.226
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.227
+newmtl Unknown.227
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.228
+newmtl Unknown.228
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.229
+newmtl Unknown.229
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.230
+newmtl Unknown.230
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.231
+newmtl Unknown.231
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.232
+newmtl Unknown.232
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.233
+newmtl Unknown.233
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.234
+newmtl Unknown.234
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.235
+newmtl Unknown.235
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.236
+newmtl Unknown.236
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.237
+newmtl Unknown.237
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.238
+newmtl Unknown.238
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.239
+newmtl Unknown.239
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.240
+newmtl Unknown.240
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.241
+newmtl Unknown.241
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.242
+newmtl Unknown.242
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.243
+newmtl Unknown.243
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.244
+newmtl Unknown.244
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.245
+newmtl Unknown.245
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.246
+newmtl Unknown.246
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.247
+newmtl Unknown.247
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.248
+newmtl Unknown.248
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.249
+newmtl Unknown.249
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.250
+newmtl Unknown.250
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.251
+newmtl Unknown.251
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.252
+newmtl Unknown.252
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.253
+newmtl Unknown.253
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.254
+newmtl Unknown.254
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# Unknown.255
+newmtl Unknown.255
+Kd 0.5020 0.0000 0.0000
+d 1.0000
+illum 1
+
+# WoodenPlank0
+newmtl WoodenPlank0
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# WoodenPlank1
+newmtl WoodenPlank1
+Kd 0.3059 0.2275 0.1373
+d 1.0000
+illum 1
+
+# WoodenPlank2
+newmtl WoodenPlank2
+Kd 0.6000 0.5451 0.3765
+d 1.0000
+illum 1
+
+# WoodenPlank3
+newmtl WoodenPlank3
+Kd 0.4824 0.3451 0.2392
+d 1.0000
+illum 1
+
+# Sapling.Default_0
+newmtl Sapling.Default_0
+Kd 0.3647 0.4941 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Default_4
+newmtl Sapling.Default_4
+Kd 0.3647 0.4941 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Default_8
+newmtl Sapling.Default_8
+Kd 0.3647 0.4941 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Default_12
+newmtl Sapling.Default_12
+Kd 0.3647 0.4941 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Spruce_1
+newmtl Sapling.Spruce_1
+Kd 0.4667 0.5882 0.3373
+d 1.0000
+illum 1
+
+# Sapling.Spruce_5
+newmtl Sapling.Spruce_5
+Kd 0.4667 0.5882 0.3373
+d 1.0000
+illum 1
+
+# Sapling.Spruce_9
+newmtl Sapling.Spruce_9
+Kd 0.4667 0.5882 0.3373
+d 1.0000
+illum 1
+
+# Sapling.Spruce_13
+newmtl Sapling.Spruce_13
+Kd 0.4667 0.5882 0.3373
+d 1.0000
+illum 1
+
+# Sapling.Birch_2
+newmtl Sapling.Birch_2
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Birch_6
+newmtl Sapling.Birch_6
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Birch_10
+newmtl Sapling.Birch_10
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Birch_14
+newmtl Sapling.Birch_14
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Jungle_3
+newmtl Sapling.Jungle_3
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Jungle_7
+newmtl Sapling.Jungle_7
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Jungle_11
+newmtl Sapling.Jungle_11
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Sapling.Jungle_15
+newmtl Sapling.Jungle_15
+Kd 0.1882 0.2039 0.1176
+d 1.0000
+illum 1
+
+# Wood.Oak
+newmtl Wood.Oak
+Kd 0.3882 0.3216 0.2039
+d 1.0000
+illum 1
+
+# Wood.Spruce
+newmtl Wood.Spruce
+Kd 0.1804 0.1137 0.0471
+d 1.0000
+illum 1
+
+# Wood.Birch
+newmtl Wood.Birch
+Kd 0.8118 0.8078 0.7882
+d 1.0000
+illum 1
+
+# Wood.Jungle
+newmtl Wood.Jungle
+Kd 0.3333 0.2706 0.1216
+d 1.0000
+illum 1
+
+# Leaves.Default_0
+newmtl Leaves.Default_0
+Kd 0.1098 0.2784 0.0196
+d 1.0000
+illum 1
+
+# Leaves.Default_8
+newmtl Leaves.Default_8
+Kd 0.1098 0.2784 0.0196
+d 1.0000
+illum 1
+
+# Leaves.Spruce_1
+newmtl Leaves.Spruce_1
+Kd 0.1647 0.2627 0.1647
+d 1.0000
+illum 1
+
+# Leaves.Spruce_9
+newmtl Leaves.Spruce_9
+Kd 0.1647 0.2627 0.1647
+d 1.0000
+illum 1
+
+# Leaves.Birch_2
+newmtl Leaves.Birch_2
+Kd 0.2549 0.3294 0.1725
+d 1.0000
+illum 1
+
+# Leaves.Birch_10
+newmtl Leaves.Birch_10
+Kd 0.2549 0.3294 0.1725
+d 1.0000
+illum 1
+
+# Leaves.Jungle_3
+newmtl Leaves.Jungle_3
+Kd 0.2549 0.3294 0.1725
+d 1.0000
+illum 1
+
+# Leaves.Jungle_11
+newmtl Leaves.Jungle_11
+Kd 0.2549 0.3294 0.1725
+d 1.0000
+illum 1
+
+# Sandstone
+newmtl Sandstone
+Kd 0.8353 0.8039 0.5804
+d 1.0000
+illum 1
+
+# Sandstone.Glyph
+newmtl Sandstone.Glyph
+Kd 0.8353 0.8039 0.5804
+d 1.0000
+illum 1
+
+# Sandstone.Smooth
+newmtl Sandstone.Smooth
+Kd 0.8353 0.8039 0.5804
+d 1.0000
+illum 1
+
+# Bed.Foot_0
+newmtl Bed.Foot_0
+Kd 0.5608 0.0902 0.0902
+d 1.0000
+illum 1
+
+# Bed.Foot_1
+newmtl Bed.Foot_1
+Kd 0.5608 0.0902 0.0902
+d 1.0000
+illum 1
+
+# Bed.Foot_2
+newmtl Bed.Foot_2
+Kd 0.5608 0.0902 0.0902
+d 1.0000
+illum 1
+
+# Bed.Foot_3
+newmtl Bed.Foot_3
+Kd 0.5608 0.0902 0.0902
+d 1.0000
+illum 1
+
+# Bed.Head_8
+newmtl Bed.Head_8
+Kd 0.6863 0.4549 0.4588
+d 1.0000
+illum 1
+
+# Bed.Head_9
+newmtl Bed.Head_9
+Kd 0.6863 0.4549 0.4588
+d 1.0000
+illum 1
+
+# Bed.Head_10
+newmtl Bed.Head_10
+Kd 0.6863 0.4549 0.4588
+d 1.0000
+illum 1
+
+# Bed.Head_11
+newmtl Bed.Head_11
+Kd 0.6863 0.4549 0.4588
+d 1.0000
+illum 1
+
+# PoweredRail.Off
+newmtl PoweredRail.Off
+Kd 0.5294 0.4431 0.3059
+d 1.0000
+illum 1
+
+# PoweredRail.On
+newmtl PoweredRail.On
+Kd 0.5843 0.4039 0.2745
+d 1.0000
+illum 1
+
+# Dead Shrub
+newmtl Dead Shrub
+Kd 0.4863 0.3098 0.0980
+d 1.0000
+illum 1
+
+# Tall Grass
+newmtl Tall Grass
+Kd 0.3216 0.4510 0.1725
+d 1.0000
+illum 1
+
+# Live Shrub
+newmtl Live Shrub
+Kd 0.2863 0.4510 0.1569
+d 1.0000
+illum 1
+
+# Wool.White
+newmtl Wool.White
+Kd 0.8706 0.8706 0.8706
+d 1.0000
+illum 1
+
+# Wool.Orange
+newmtl Wool.Orange
+Kd 0.9176 0.5020 0.2157
+d 1.0000
+illum 1
+
+# Wool.Magenta
+newmtl Wool.Magenta
+Kd 0.7490 0.2980 0.7882
+d 1.0000
+illum 1
+
+# Wool.Light Blue
+newmtl Wool.Light Blue
+Kd 0.4078 0.5451 0.8314
+d 1.0000
+illum 1
+
+# Wool.Yellow
+newmtl Wool.Yellow
+Kd 0.7608 0.7098 0.1098
+d 1.0000
+illum 1
+
+# Wool.Light Green
+newmtl Wool.Light Green
+Kd 0.2314 0.7412 0.1882
+d 1.0000
+illum 1
+
+# Wool.Pink
+newmtl Wool.Pink
+Kd 0.8510 0.5176 0.6078
+d 1.0000
+illum 1
+
+# Wool.Gray
+newmtl Wool.Gray
+Kd 0.2627 0.2627 0.2627
+d 1.0000
+illum 1
+
+# Wool.Light Gray
+newmtl Wool.Light Gray
+Kd 0.6196 0.6510 0.6510
+d 1.0000
+illum 1
+
+# Wool.Cyan
+newmtl Wool.Cyan
+Kd 0.1529 0.4588 0.5882
+d 1.0000
+illum 1
+
+# Wool.Purple
+newmtl Wool.Purple
+Kd 0.5059 0.2118 0.7686
+d 1.0000
+illum 1
+
+# Wool.Blue
+newmtl Wool.Blue
+Kd 0.1529 0.2000 0.6039
+d 1.0000
+illum 1
+
+# Wool.Brown
+newmtl Wool.Brown
+Kd 0.3373 0.2000 0.1098
+d 1.0000
+illum 1
+
+# Wool.Dark Green
+newmtl Wool.Dark Green
+Kd 0.2196 0.3020 0.0941
+d 1.0000
+illum 1
+
+# Wool.Red
+newmtl Wool.Red
+Kd 0.6431 0.1765 0.1608
+d 1.0000
+illum 1
+
+# Wool.Black
+newmtl Wool.Black
+Kd 0.1059 0.0902 0.0902
+d 1.0000
+illum 1
+
+# DoubleSlab.Stone
+newmtl DoubleSlab.Stone
+Kd 0.6549 0.6549 0.6549
+d 1.0000
+illum 1
+
+# DoubleSlab.SandStone
+newmtl DoubleSlab.SandStone
+Kd 0.8353 0.8039 0.5804
+d 1.0000
+illum 1
+
+# DoubleSlab.Wooden
+newmtl DoubleSlab.Wooden
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# DoubleSlab.Cobblestone
+newmtl DoubleSlab.Cobblestone
+Kd 0.4588 0.4588 0.4588
+d 1.0000
+illum 1
+
+# DoubleSlab.Brick
+newmtl DoubleSlab.Brick
+Kd 0.6118 0.4314 0.3843
+d 1.0000
+illum 1
+
+# DoubleSlab.StoneBrick
+newmtl DoubleSlab.StoneBrick
+Kd 0.4667 0.4667 0.4667
+d 1.0000
+illum 1
+
+# Slab.Stone
+newmtl Slab.Stone
+Kd 0.6549 0.6549 0.6549
+d 1.0000
+illum 1
+
+# Slab.SandStone
+newmtl Slab.SandStone
+Kd 0.8353 0.8039 0.5804
+d 1.0000
+illum 1
+
+# Slab.Wooden
+newmtl Slab.Wooden
+Kd 0.6157 0.5020 0.3098
+d 1.0000
+illum 1
+
+# Slab.Cobblestone
+newmtl Slab.Cobblestone
+Kd 0.4588 0.4588 0.4588
+d 1.0000
+illum 1
+
+# Slab.Brick
+newmtl Slab.Brick
+Kd 0.6118 0.4314 0.3843
+d 1.0000
+illum 1
+
+# Slab.StoneBrick
+newmtl Slab.StoneBrick
+Kd 0.4667 0.4667 0.4667
+d 1.0000
+illum 1
+
+# StoneBrick
+newmtl StoneBrick
+Kd 0.4667 0.4667 0.4667
+d 1.0000
+illum 1
+
+# StoneBrick.Mossy
+newmtl StoneBrick.Mossy
+Kd 0.4510 0.4667 0.4157
+d 1.0000
+illum 1
+
+# StoneBrick.Cracked
+newmtl StoneBrick.Cracked
+Kd 0.4627 0.4627 0.4627
+d 1.0000
+illum 1
+
+# StoneBrick.Circle
+newmtl StoneBrick.Circle
+Kd 0.4627 0.4627 0.4627
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_0
+newmtl HugeBrownMushroom.Cap_0
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_1
+newmtl HugeBrownMushroom.Cap_1
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_2
+newmtl HugeBrownMushroom.Cap_2
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_3
+newmtl HugeBrownMushroom.Cap_3
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_4
+newmtl HugeBrownMushroom.Cap_4
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_5
+newmtl HugeBrownMushroom.Cap_5
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_6
+newmtl HugeBrownMushroom.Cap_6
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_7
+newmtl HugeBrownMushroom.Cap_7
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_8
+newmtl HugeBrownMushroom.Cap_8
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Cap_9
+newmtl HugeBrownMushroom.Cap_9
+Kd 0.7176 0.1490 0.1412
+d 1.0000
+illum 1
+
+# HugeBrownMushroom.Stem
+newmtl HugeBrownMushroom.Stem
+Kd 0.8157 0.8000 0.7608
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_0
+newmtl HugeRedMushroom.Cap_0
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_1
+newmtl HugeRedMushroom.Cap_1
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_2
+newmtl HugeRedMushroom.Cap_2
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_3
+newmtl HugeRedMushroom.Cap_3
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_4
+newmtl HugeRedMushroom.Cap_4
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_5
+newmtl HugeRedMushroom.Cap_5
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_6
+newmtl HugeRedMushroom.Cap_6
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_7
+newmtl HugeRedMushroom.Cap_7
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_8
+newmtl HugeRedMushroom.Cap_8
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Cap_9
+newmtl HugeRedMushroom.Cap_9
+Kd 0.5569 0.4196 0.3255
+d 1.0000
+illum 1
+
+# HugeRedMushroom.Stem
+newmtl HugeRedMushroom.Stem
+Kd 0.7961 0.6706 0.4745
+d 1.0000
+illum 1
+
+# PumpkinStem_0
+newmtl PumpkinStem_0
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# PumpkinStem_1
+newmtl PumpkinStem_1
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# PumpkinStem_2
+newmtl PumpkinStem_2
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# PumpkinStem_3
+newmtl PumpkinStem_3
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# PumpkinStem_4
+newmtl PumpkinStem_4
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# PumpkinStem_5
+newmtl PumpkinStem_5
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# PumpkinStem_6
+newmtl PumpkinStem_6
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# PumpkinStem.Ripe
+newmtl PumpkinStem.Ripe
+Kd 0.6941 0.5490 0.2941
+d 1.0000
+illum 1
+
+# MelonStem_0
+newmtl MelonStem_0
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# MelonStem_1
+newmtl MelonStem_1
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# MelonStem_2
+newmtl MelonStem_2
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# MelonStem_3
+newmtl MelonStem_3
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# MelonStem_4
+newmtl MelonStem_4
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# MelonStem_5
+newmtl MelonStem_5
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# MelonStem_6
+newmtl MelonStem_6
+Kd 0.4941 0.7255 0.3216
+d 1.0000
+illum 1
+
+# MelonStem.Ripe
+newmtl MelonStem.Ripe
+Kd 0.6941 0.5490 0.2941
+d 1.0000
+illum 1
+
